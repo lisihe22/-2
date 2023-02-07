@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\bin\Debug\net6.0\Task53.exe
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\bin\Debug\net6.0\Task53.deps.json
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\bin\Debug\net6.0\Task53.runtimeconfig.json
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\bin\Debug\net6.0\Task53.dll
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\bin\Debug\net6.0\Task53.pdb
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.dll
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\refint\Task53.dll
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.pdb
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\Task53.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\домашняя работа 2\Задачи с 34\Task53\obj\Debug\net6.0\ref\Task53.dll
