@@ -1,17 +1,11 @@
-﻿   
-    void CalcNum(int m)
+﻿
+Console.Write("Введите колличество элементов: ");
+int n = Convert.ToInt32(Console.ReadLine()), count = 0;
+for (int i = 0; i < n; i++)
 {
-    int n = 0;
-    int count = 0;
-        for (int i = 1; i <= m; i++)
-    {
-            Console.Write($"Введите число {i}: ");
-            n = Convert.ToInt32(Console.ReadLine());
-        if (n == 0)
-            count++;
-    }
-            Console.Write($" \n Количество чисел равных 0: {count} ");
+    Console.Write("Введите число: ");
+    int x = Convert.ToInt32(Console.ReadLine());
+    if (x > 0)
+        count++; // count = count + 1;
 }
-    Console.Write($"Введите количество чисел: ");
-    int n = Convert.ToInt32(Console.ReadLine());
-CalcNum(n);
+Console.WriteLine($"Результат: {count}");
